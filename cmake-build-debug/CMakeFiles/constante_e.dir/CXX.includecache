@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/cpp_aplicacoes_uteis/constante_e/BigNumber.hpp
+iostream
+-
+StringChar.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/cpp_aplicacoes_uteis/constante_e/StringChar.hpp
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/cpp_aplicacoes_uteis/constante_e/Euler.hpp
+iostream
+-
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/cpp_aplicacoes_uteis/constante_e/StringChar.hpp
+iostream
+-
+string
+-
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/cpp_aplicacoes_uteis/constante_e/main.cpp
+Euler.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/cpp_aplicacoes_uteis/constante_e/Euler.hpp
+BigNumber.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/cpp_aplicacoes_uteis/constante_e/BigNumber.hpp
+
